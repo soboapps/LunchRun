@@ -1,0 +1,109 @@
+<resources>
+    
+    <string-array name="mcdonalds_menu">
+        <item>@string/entrees</item>
+        <item>Angus Bacon \u0026 Cheese</item>
+        <item>Angus Deluxe</item>
+    	<item>Angus Mushroom \u0026 Swiss</item>
+    	<item>Big Mac</item>
+    	<item>Quarter Pounder w\u002f Cheese</item>
+		<item>Double Quarter Pounder w\u002f Cheese</item>
+		<item>Hamburger</item>
+		<item>Cheeseburger</item>
+		<item>Double Cheeseburger</item>
+		<item>McDouble</item>
+		<item>Filet-O-Fish</item>
+		<item>McRib</item>
+		<item>Southern Style Crispy Chicken Sandwich</item>
+		<item>Crispy Chicken Classic Sandwich</item>
+		<item>Grilled Chicken Classic Sandwich</item>
+		<item>Crispy Chicken Club Sandwich</item>
+		<item>Grilled Chicken Club Sandwich</item>
+		<item>Crispy Chicken Ranch BLT Sandwich</item>
+		<item>Grilled Chicken Ranch BLT Sandwich</item>
+		<item>McChicken</item>
+		<item>Spicy Chicken McBites</item>
+		<item>Chicken McNuggets</item>
+		<item>Chicken Strips</item>
+		<item>Angus Bacon \u0026 Cheese Snack Wrap</item>
+		<item>Angus Deluxe Snack Wrap</item>
+		<item>Angus Mushroom \u0026 Swiss Snack Wrap</item>
+		<item>Chipotle BBQ Snack Wrap (Crispy)</item>
+		<item>Chipotle BBQ Snack Wrap (Grilled)</item>
+		<item>Honey Mustard Snack Wrap (Crispy)</item>
+		<item>Honey Mustard Snack Wrap (Grilled)</item>
+		<item>Ranch Snack Wrap (Crispy)</item>
+		<item>Ranch Snack Wrap (Grilled)</item>
+		<item>Mac Snack Wrap</item>
+		
+		<item>@string/sides</item>
+		<item>World Famous Fries</item>
+		<item>Fruit \u0027N Yogurt Parfait</item>
+		<item>Fruit \u0026 Walnuts</item>
+		<item>Bacon Ranch Salad</item>
+		<item>Bacon Ranch Salad w\u002f Crispy Chicken</item>
+		<item>Bacon Ranch Salad w\u002f Grilled Chicken</item>
+		<item>Caesar Salad w\u002f Crispy Chicken</item>
+		<item>Caesar Salad w\u002f Grilled Chicken</item>
+		<item>Southwest Salad</item>
+		<item>Southwest Salad w\u002f Crispy Chicken</item>
+		<item>Southwest Salad w\u002f Grilled Chicken</item>
+		<item>Apple Slices</item>
+		<item>Side Salad</item>
+		
+		<item>@string/desserts</item>
+		<item>Dipped Cone</item>
+		<item>Vanilla Cone</item>
+		<item>Kiddie Cone</item>
+		<item>Hot Fudge Sundae</item>
+		<item>Hot Caramel Sundae</item>
+		<item>Strawberry Sundae</item>
+		<item>McFlurry w\u002f Rolo</item>
+		<item>McFlurry w\u002f M\u0026M\u0027s</item>
+		<item>McFlurry w\u002f OREO Cookies</item>
+		<item>McFlurry w\u002f Reese\u0027s</item>
+		<item>S\u0027mores Pie</item>
+		<item>Baked Apple Pie</item>
+		<item>McCafé Chocolate Shake</item>
+		<item>McCafé Strawberry Shake</item>
+		<item>McCafé Vanilla Shake</item>
+		<item>Soft Baked Chocolate Chip Cookie</item>
+		<item>Soft Baked Oatmeal Raisin Cookie</item>
+		<item>Soft Baked Sugar Cookie</item>
+		
+		<item>@string/beverages</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coke</item>
+		<item>Dr Pepper</item>
+		<item>Diet Dr Pepper</item>
+		<item>Sprite</item>
+		<item>Dasani Water</item>
+		<item>Sweet Tea</item>
+		<item>Hi-C Orange Lavaburst</item>
+		<item>POWERade Mountain Berry Blast</item>
+		<item>Coffee</item>
+		<item>Iced Coffee</item>
+		<item>1\u0025 Low Fat Milk Jug</item>
+		<item>Fat Free Chocolate Milk Jug </item>
+		<item>Minute Maid Apple Juice Box</item>
+		<item>Minute Maid Orange Juice</item>
+		<item>McCafé Mocha</item>
+		<item>McCafé Caramel Mocha</item>
+		<item>McCafé Latte</item>
+		<item>McCafé Cappuccino</item>
+		<item>McCafé Hot Chocolate</item>
+		<item>McCafé Caramel Hot Chocolate</item>
+		<item>McCafé Iced Mocha</item>
+		<item>McCafé Iced Caramel Mocha</item>
+		<item>McCafé Iced Latte</item>
+		<item>McCafé Frappé Mocha</item>
+		<item>McCafé Frappé Caramel</item>
+		<item>McCafé Frappé Chocolate Chip</item>
+		<item>McCafé Strawberry Banana Smoothie</item>
+		<item>McCafé Wild Berry Smoothie</item>
+		<item>McCafé Mango Pineapple Smoothie</item>
+		<item>McCafé Frozen Strawberry Lemonade</item>
+		<item>McCafé Cherry Berry Chiller</item>
+    </string-array>
+    
+</resources>

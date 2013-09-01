@@ -1,0 +1,93 @@
+<resources>
+    
+    <string-array name="subway_menu">
+        <item>@string/entrees</item>
+		<item>6\u0022 B.L.T.</item>
+		<item>12\u0022 B.L.T.</item>
+		<item>6\u0022 B.L.T. w\u002f Avocado</item>
+		<item>12\u0022 B.L.T. w\u002f Avocado</item>
+		<item>6\u0022 Big Philly Cheesesteak</item>
+		<item>12\u0022 Big Philly Cheesesteak</item>
+		<item>6\u0022 Buffalo Chicken</item>
+		<item>12\u0022 Buffalo Chicken</item>
+		<item>6\u0022 Chicken \u0026 Bacon Ranch Melt</item>
+		<item>12\u0022 Chicken \u0026 Bacon Ranch Melt</item>
+		<item>6\u0022 Chicken Parmesan</item>
+		<item>12\u0022 Chicken Parmesan</item>
+		<item>6\u0022 Chicken Pizziola Melt</item>
+		<item>12\u0022 Chicken Pizziola Melt</item>
+		<item>6\u0022 Chipotle Chicken and Cheese</item>
+		<item>12\u0022 Chipotle Chicken and Cheese</item>
+		<item>6\u0022 Chipotle Steak \u0026 Cheese w\u002f Avocado</item>
+		<item>12\u0022 Chipotle Steak \u0026 Cheese w\u002f Avocado</item>
+		<item>6\u0022 Cold Cut Combo</item>
+		<item>12\u0022 Cold Cut Combo</item>
+		<item>6\u0022 Italian B.M.T.</item>
+		<item>12\u0022 Italian B.M.T.</item>
+		<item>6\u0022 Jalapeno Tuna</item>
+		<item>12\u0022 Jalapeno Tuna</item>
+		<item>6\u0022 Meatball Marinara</item>
+		<item>12\u0022 Meatball Marinara</item>
+		<item>6\u0022 Meatball Pepperoni Melt</item>
+		<item>12\u0022 Meatball Pepperoni Melt</item>
+		<item>6\u0022 Pizza Sub</item>
+		<item>12\u0022 Pizza Sub</item>
+		<item>6\u0022 Spicy Italian</item>
+		<item>12\u0022 Spicy Italian</item>
+		<item>6\u0022 Steak and Cheese</item>
+		<item>12\u0022 Steak and Cheese</item>
+		<item>6\u0022 Subway Club w\u002f Avocado</item>
+		<item>12\u0022 Subway Club w\u002f Avocado</item>
+		<item>6\u0022 Subway Melt</item>
+		<item>12\u0022 Subway Melt</item>
+		<item>6\u0022 Tuna</item>
+		<item>12\u0022 Tuna</item>
+		<item>6\u0022 Turkey \u0026 Bacon Avocado</item>
+		<item>12\u0022 Turkey \u0026 Bacon Avocado</item>
+		<item>6\u0022 Ultimate Veggie w\u002f Avocado</item>
+		<item>12\u0022 Ultimate Veggie w\u002f Avocado</item>
+		<item>6\u0022 Black Forest Ham</item>
+		<item>12\u0022 Black Forest Ham</item>
+		<item>6\u0022 Oven Roasted Chicken</item>
+		<item>12\u0022 Oven Roasted Chicken</item>
+		<item>6\u0022 Oven Roasted Chicken w\u002f Spinach</item>
+		<item>12\u0022 Oven Roasted Chicken w\u002f Spinach</item>
+		<item>6\u0022 Roast Beef</item>
+		<item>12\u0022 Roast Beef</item>
+		<item>6\u0022 Smokehouse Chicken</item>
+		<item>12\u0022 Smokehouse Chicken</item>
+		<item>6\u0022 Subway Club</item>
+		<item>12\u0022 Subway Club</item>
+		<item>6\u0022 Sweet Onion Chicken Teriyaki</item>
+		<item>12\u0022 Sweet Onion Chicken Teriyaki</item>
+		<item>6\u0022 Turkey Breast</item>
+		<item>12\u0022 Turkey Breast</item>
+		<item>6\u0022 Turkey Breast \u0026 Ham</item>
+		<item>12\u0022 Turkey Breast \u0026 Ham</item>
+		<item>6\u0022 Veggie Delite</item>
+		<item>12\u0022 Veggie Delite</item>
+		<item>6\u0022 Turkey Breast w\u002f Avocado \u0026 Spinach</item>
+		<item>12\u0022 Turkey Breast w\u002f Avocado \u0026 Spinach</item>
+		<item>6\u0022 Bacon\u002c Egg \u0026 Cheese w\u002f Avocado</item>
+		<item>12\u0022 Bacon\u002c Egg \u0026 Cheese w\u002f Avocado</item>
+		
+		<item>@string/sides</item>
+		<item>Apple Slices</item>
+		<item>Chips</item>
+		
+		<item>@string/desserts</item>
+		<item>Yogurt Parfait</item>
+		<item>Cookies</item>
+		
+		<item>@string/beverages</item>
+		<item>Coca Cola</item>
+		<item>Dasani Bottled Water</item>
+		<item>Minute Maid</item>
+		<item>Apple Juice</item>
+		<item>Iced Tea</item>
+		<item>1\u0025 Low Fat Milk</item>
+		<item>Coffee</item>
+		<item>vitaminwater zero</item>
+    </string-array>
+    
+</resources>

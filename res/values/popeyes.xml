@@ -1,0 +1,61 @@
+<resources>
+    
+    <string-array name="popeyes_menu">
+        <item>@string/entrees</item>
+		<item>2pc Chicken meal</item>
+		<item>3pc Chicken meal</item>
+		<item>4pc Chicken meal</item>
+		<item>Popcorn Shrimp meal</item>
+		<item>3pc Chicken Tenders meal</item>
+		<item>5pc Chicken Tenders meal</item>
+		<item>6pc Chicken Nugget meal</item>
+		<item>Kids Chicken Leg meal</item>
+		<item>Kids Naked Tender meal</item>
+		<item>Kids Chicken Nugget meal</item>
+		<item>Loaded Chicken Wrap</item>
+		<item>Naked Chicken Wrap</item>
+		<item>Zatarain\u0027s Butterfly Shrimp</item>
+		<item>Chicken Po\u0027Boy</item>
+		<item>Naked BBQ Chicken Po\u0027Boy</item>
+		<item>Shrimp Po\u0027Boy</item>
+		<item>Chicken \u0026 Sausage Jambalaya Bowl</item>
+		<item>Rip\u0027n Chick\u0027n</item>
+		<item>Dip\u0027n Chick\u0027n</item>
+		<item>8pc Chicken Mixed, 1 lg side, 4 biscuits</item>
+		<item>12pc Chicken Mixed, 2 lg sides, 6 biscuits</item>
+		<item>16pc Chicken Mixed, 3 lg sides, 8 biscuits</item>
+		<item>8pc Chicken only</item>
+		<item>12pc Chicken only</item>
+		<item>16pc Chicken only</item>
+		
+		<item>@string/sides</item>
+		<item>Red Beans \u0026 Rice</item>
+		<item>Mashed Potatoes with Cajun Gravy</item>
+		<item>Cole Slaw</item>
+		<item>Cajun Fries</item>
+		<item>Cajun Rice</item>
+		<item>Onion Rings</item>
+		
+		<item>@string/desserts</item>
+		<item>Southern Peach Pie</item>
+		<item>Cinnamon Apple Pie</item>
+		<item>Sweet Potatoe Pie</item>
+		<item>Mardi Gras Cheesecake</item>
+		
+		<item>@string/beverages</item>
+		<item>Pepsi</item>
+		<item>Diet Pepsi</item>
+		<item>Mountain Dew</item>
+		<item>Dr Pepper</item>
+		<item>Coca-Cola Zero</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coke</item>
+		<item>Sprite</item>
+		<item>Fanta Orange</item>
+		<item>Fanta Strawberry</item>
+		<item>Sweet Tea</item>
+		<item>Unsweet Tea</item>
+		<item>Hawaiin Punch</item>
+    </string-array>
+    
+</resources>

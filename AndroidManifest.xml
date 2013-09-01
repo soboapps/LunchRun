@@ -1,0 +1,237 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.soboapps.lunchrun"
+    android:versionCode="8"
+    android:versionName="1.8" >
+
+    <uses-sdk android:minSdkVersion="8" />
+    
+    <uses-permission android:name="android.permission.SEND_SMS"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+  	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+  	<uses-permission android:name="com.android.vending.BILLING" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".arbysListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.ARBYSMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".awListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.AWMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".burgerkingListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.BURGERKINGMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+ 
+		<activity
+            android:name=".carlsjrListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.CARLSJRMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".chickfilaListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.CHICKFILAMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        		
+		<activity
+            android:name=".churchesListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.CHURCHESMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".dqListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.DQMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".fiveguysListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.FIVEGUYSMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".hardeesListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.HARDEESMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+
+		<activity
+            android:name=".kfcListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.KFCMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+
+		<activity
+            android:name=".mcdonaldsListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.MCDONALDSMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+
+		<activity
+            android:name=".paneraListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.PANERAMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".pizzahutListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.PIZZAHUTMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		
+		<activity
+            android:name=".popeyesListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.POPEYESMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".subwayListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.SUBWAYMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>		
+		
+		<activity
+            android:name=".tacobellListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.TACOBELLMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<activity
+            android:name=".wendysListMenu"
+            android:exported="false">
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.WENDYSMAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+<!-- -
+        <activity
+            android:name="com.google.ads.AdActivity" 
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" >
+        </activity>
+ -->        
+		<activity
+            android:name=".about"
+            android:label="@string/stAbout_lr"
+            android:exported="false"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.ABOUT" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+		<activity
+            android:name=".Donate"
+            android:label="@string/stDonate"
+            android:exported="false"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.soboapps.lunchrun.DONATE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+		<service android:name=".BillingService" />
+
+	    <receiver 
+	        android:name=".BillingReceiver"
+	        android:exported="false" >
+	      <intent-filter>
+	        <action android:name="com.android.vending.billing.IN_APP_NOTIFY" />
+	        <action android:name="com.android.vending.billing.RESPONSE_CODE" />
+	        <action android:name="com.android.vending.billing.PURCHASE_STATE_CHANGED" />
+	      </intent-filter>
+	    </receiver>
+		
+    </application>
+</manifest>

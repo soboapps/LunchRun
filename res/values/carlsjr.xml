@@ -1,0 +1,71 @@
+<resources>
+    
+    <string-array name="carlsjr_menu">
+        <item>@string/entrees</item>
+		<item>Six Dollar Burger</item>
+		<item>Six Dollar Guacamole Bacon Burger</item>
+		<item>Six Dollar Western Bacon Burger</item>
+		<item>Six Dollar Portobello Mushroom Burger</item>
+		<item>Famous Star Cheeseburger</item>
+		<item>Super Star Cheeseburger</item>
+		<item>Western Bacon Cheeseburger</item>
+		<item>Double Western Bacon Cheeseburger</item>
+		<item>Teriyaki Buger</item>
+		<item>Big Carl</item>
+		<item>Chicken Tenders (3pc)</item>
+		<item>Chicken Tenders (5pc)</item>
+		<item>Chicken Tender Box (10pc)</item>
+		<item>Chicken Tender Box (15pc)</item>
+		<item>Chicken Tender Box (20pc)</item>
+		<item>Chicken Fillet Sandwich</item>
+		<item>Chicken Club</item>
+		<item>Santa Fe Chicken</item>
+		<item>BBQ Chicken</item>
+		<item>Carl\u0027ss Catch Fish Sandwich</item>
+		<item>Turkey Burger</item>
+		<item>Guacamole Turkey Burger</item>
+		<item>Teriyaki Turkey Burger</item>
+		<item>Spicy Chicken</item>
+		<item>Fish \u0026 Chips</item>
+		<item>Kids Combos Hamburger</item>
+		<item>Kids Combos Chicken Tenders</item>
+		<item>Kids Combos Chicken Stars</item>
+				
+		<item>@string/sides</item>
+		<item>Fries</item>
+		<item>Crisscut Fries</item>
+		<item>Onion Rings</item>
+		<item>Fried Zucchini</item>
+		<item>Chili Cheese Fries</item>
+		<item>Side Salad</item>
+		<item>Taco salad</item>
+		<item>Original salad</item>
+		<item>Cranberry Apple Walnut salad</item>
+		
+		<item>@string/desserts</item>
+		<item>Chocolate Chip Cookie</item>
+		<item>Strawberry Cheesecake</item>
+		<item>Chocolate Cake</item>
+		<item>Chocolate Shakes</item>
+		<item>Vanilla Shake</item>
+		<item>Strawberry Shake</item>
+		<item>Chocolate Malt</item>
+		<item>Vanilla Malt</item>
+		<item>Strawberry Malt</item>
+		<item>Oreo Cookie Shake</item>
+		<item>Oreo Cookie Malt</item>
+
+		<item>@string/beverages</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coke</item>
+		<item>Dr Pepper</item>
+		<item>Diet Dr Pepper</item>
+		<item>Sprite</item>
+		<item>Milk</item>
+		<item>Dasani</item>
+		<item>Coffee</item>
+		<item>Minute Maid Orange Juice</item>
+
+    </string-array>
+    
+</resources>

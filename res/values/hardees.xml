@@ -1,0 +1,90 @@
+<resources>
+    
+    <string-array name="hardees_menu">
+        <item>@string/entrees</item>
+		<item>1\u002f4 lb. The Amazing Grilled Cheese Bacon Thickburger</item>
+		<item>1\u002f3 lb. The Amazing Grilled Cheese Bacon Thickburger</item>
+		<item>1\u002f3 lb. Cheeseburger Thickburger</item>
+		<item>1\u002f3 lb. Original Thickburger</item>
+		<item>1\u002f3 lb. Mushroom \u0026 Swiss Thickburger</item>
+		<item>1\u002f3 lb. Bacon Cheese Thickburger</item>
+		<item>1\u002f3 Lb. Frisco Thickburger</item>
+		<item>2\u002f3 lb. Monster Thickburger</item>
+		<item>1\u002f4 Lb. Little Thick Cheeseburger</item>
+		<item>1\u002f4 lb. Little Thickburger</item>
+		<item>1\u002f3 lb. Low Carb Thickburger</item>
+		<item>Grilled Cheese Bacon Thickburger</item>
+		<item>The Six Dollar Thickburger</item>
+		<item>Turkey Burger</item>
+		<item>Small Hamburger</item>
+		<item>Small Cheeseburger</item>
+		<item>Double Cheeseburger</item>
+		<item>Hamburger Kids Meal</item>
+		<item>Cheeseburger Kids Meal</item>
+		<item>Veg It. - Thickburger (hold the patty)</item>
+		<item>Low Carb It. - 1\u002f3 lb. Low Carb Thickburger</item>
+		<item>Trim It. - 1\u002f4 lb. Low Carb Little Thickburger</item>
+		<item>Gluten-Sensitive* - 1\u002f3 lb. Low Carb Thickburger</item>
+		<item>Chicken Tender Sandwich</item>
+		<item>Bacon Swiss Chicken Tender Sandwich</item>
+		<item>Honey Mustard Chicken Tender Sandwich</item>
+		<item>Buffalo Chicken Wrapper</item>
+		<item>Ranch Chicken Tender Wrapper</item>
+		<item>Honey Mustard Chicken Tender Wrapper</item>
+		<item>BBQ Chicken Tender Wrapper</item>
+		<item>Chicken Tenders (3pc)</item>
+		<item>Chicken Tenders (5pc)</item>
+		<item>Chicken Tenders (10pc)</item>
+		<item>Chicken Tenders (15pc)</item>
+		<item>Chicken Tenders (20pc)</item>
+		<item>Charbroiled Chicken Club Sandwich</item>
+		<item>Low Carb It. - Charbroiled Chicken Club</item>
+		<item>Trim It. - Charbroiled BBQ Chicken Sandwich</item>
+		<item>Big Hot Ham \u0027N\u0027 Cheese</item>
+		<item>Trim It. - Big Hot Ham Sandwich</item>
+		<item>Jumbo Chili Dog</item>
+		<item>Charbroiled BBQ Chicken Sandwich</item>
+		<item>Fish Supreme</item>
+		<item>Fish \u0027N\u0027 Chips Basket</item>
+		<item>Chicken Tenders Kids Meal</item>
+		
+		<item>@string/sides</item>
+		<item>French Fries</item>
+		<item>Bacon Cheddar Fries</item>
+		<item>Beer Battered Onion Rings</item>
+		<item>Side Salad</item>
+		<item>Veg It. - Side Salad</item>
+		<item>Gluten-Sensitive - Side Salad</item>
+		
+		<item>@string/desserts</item>
+		<item>OREO Ice Cream Sandwich</item>
+		<item>Chocolate Ice Cream Shake</item>
+		<item>Chocolate Ice Cream Malt</item>
+		<item>Vanilla Ice Cream Shake</item>
+		<item>Vanilla Ice Cream Malt</item>
+		<item>Strawberry Ice Cream Shake</item>
+		<item>Strawberry Ice Cream Malt</item>
+		<item>Apple Turnover</item>
+		
+		<item>@string/beverages</item>
+		<item>Dr Pepper</item>
+		<item>Coca-Cola Zero</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coke</item>
+		<item>Sprite</item>
+		<item>Mello Yello</item>
+		<item>Minute Maid Lemonade</item>
+		<item>Nestea Raspberry Iced Tea</item>
+		<item>Hi-C Orange Lavaburst</item>
+		<item>Powerade Mountain Blast</item>
+		<item>Cherry Coke</item>
+		<item>Colombian Blend Coffee</item>
+		<item>Monster Energy</item>
+		<item>Dasani Water</item>
+		<item>Sweet Tea</item>
+		<item>Minute Maid Orange Juice</item>
+		<item>2\u0025 Milk</item>
+		<item>Hot Chocolate</item>
+    </string-array>
+    
+</resources>

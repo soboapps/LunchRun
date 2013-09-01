@@ -1,0 +1,97 @@
+<resources>
+    
+    <string-array name="panera_menu">
+        <item>@string/entrees</item>
+		<item>Chipotle Chicken on Artisan French Panini</item>
+		<item>Cuban Chicken Panini</item>
+		<item>Frontega Chicken on Focaccia Panini</item>
+		<item>Smokehouse Turkey on Three Cheese Panini</item>
+		<item>Steak \u0026 White Cheddar on French Baguette Panini</item>
+		<item>Tomato \u0026 Mozzarella  on Ciabatta Panini</item>
+		<item>Roasted Turkey Artichoke on Foccacia w\u002f Asiago Cheese Panini</item>
+		<item>Asiago Roast Beef on Asiago Cheese sandwich</item>
+		<item>Bacon Turkey Bravo on XL Tomato Basil sandwich</item>
+		<item>Chicken Caesar on Three Cheese sandwich</item>
+		<item>Napa Almond Chicken Salad on Sesame Semolina sandwich</item>
+		<item>Italian Combo on Ciabatta sandwich</item>
+		<item>Roasted Turkey \u0026 Avocado BLT sandwich</item>
+		<item>Mediterranean Veggie on XL Tomato Basil sandwich</item>
+		<item>Sierra Turkey on Focaccia w\u002f Asiago Cheese sandwich</item>
+		<item>Smoked Ham \u0026 Swiss on Stone-Milled Rye sandwich</item>
+		<item>Smoked Turkey Breast on Country sandwich</item>
+		<item>Tuna Salad on Honey Wheat sandwich</item>
+		<item>Roast Beef Deli Sandwich</item>
+		<item>Smoked Ham Deli Sandwich</item>
+		<item>Smoked Turkey Deli Sandwich</item>
+		<item>Grilled Cheese Sandwich</item>
+		<item>Peanut Butter \u0026 Jelly Sandwich</item>
+		
+		<item>@string/sides</item>
+		<item>French baguette</item>
+		<item>Whole grain baguette</item>
+		<item>Panera potato chips</item>
+		<item>Baked lays potato chips</item>
+		<item>Pickle spear</item>
+		<item>Signature Mac \u0026 Cheese</item>
+		<item>Blueberry Organic Yogurt</item>
+		<item>Strawberry Organic Yogurt</item>
+		<item>Apple</item>
+		<item>Baked Potato Soup</item>
+		<item>Broccoli Cheddar Soup</item>
+		<item>Chicken Tortilla Soup</item>
+		<item>Lemon Chicken Orzo Soup</item>
+		<item>Vegetarian Summer Corn Chowder Soup</item>
+		<item>Cream of Chicken \u0026 Wild Rice Soup</item>
+		<item>Garden Vegetable w\u002f Pesto Soup</item>
+		<item>French Onion Soup</item>
+		<item>Chicken Noodle Soup</item>
+		<item>Vegetarian Black Bean Soup</item>
+		<item>New England Clam Chowder Soup</item>
+		<item>Creamy Tomato Soup</item>
+		<item>Asian Sesame Chicken salad</item>
+		<item>BBQ Chopped Chicken salad</item>
+		<item>Caesar salad</item>
+		<item>Chicken Caesar salad</item>
+		<item>Chopped Chicken Cobb salad</item>
+		<item>Chopped Chicken Cobb w\u002f Avocado salad</item>
+		<item>Chopped Steak \u0026 Blue Cheese salad</item>
+		<item>Classic Cafe salad</item>
+		<item>Fuji Apple w\u002f Chicken salad</item>
+		<item>Greek salad</item>
+		<item>Roasted Turkey Fuji Apple salad</item>
+		<item>Strawberry Poppyseed \u0026 Chicken salad</item>
+		<item>Thai Chopped Chicken salad</item>
+		
+		<item>@string/desserts</item>
+		<item>Frozen Caramel</item>
+		<item>Frozen Lemonade</item>
+		<item>Black Cherry Smoothie</item>
+		<item>Mango Smoothie</item>
+		<item>Peach Nectar Smoothie</item>
+		<item>Strawberry Smoothie w\u002f Ginseng</item>
+		<item>Wild Berry Smoothie</item>
+		<item>Frozen Mango</item>
+		<item>Frozen Mocha</item>
+		
+		<item>@string/beverages</item>
+		<item>Iced Chai Tea Latte</item>
+		<item>Iced Infused Green Tea (w\u002f passionfruit \u0026 papaya)</item>
+		<item>Lemonade</item>
+		<item>Brewed Black Tea</item>
+		<item>Brewed Acai Tea</item>
+		<item>Caffe Latte</item>
+		<item>Caffe Mocha</item>
+		<item>Cappuccino</item>
+		<item>Caramel Latte</item>
+		<item>Vanilla Latte</item>
+		<item>Chai Tea Latte</item>
+		<item>Coffee</item>
+		<item>Decaf Coffee</item>
+		<item>Hot Chocolate</item>
+		<item>Orange Juice</item>
+		<item>Milk</item>
+		<item>Chocolate Milk</item>
+		<item>Apple Juice</item>
+    </string-array>
+    
+</resources>

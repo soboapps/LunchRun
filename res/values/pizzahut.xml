@@ -1,0 +1,46 @@
+<resources>
+    
+    <string-array name="pizzahut_menu">
+        <item>@string/entrees</item>
+		<item>ULTIMATE CHEESE LOVER\u0027S PIZZA</item>
+		<item>PEPPERONI LOVER\u0027S PIZZA</item>
+		<item>MEAT LOVER\u0027S PIZZA</item>
+		<item>VEGGIE LOVER\u0027S PIZZA</item>
+		<item>SUPREME PIZZA</item>
+		<item>SUPER SUPREME PIZZA</item>
+		<item>ITALIAN STEAK P\u0027ZOLO</item>
+		<item>MEAT TRIO P\u0027ZOLO</item>
+		<item>BUFFALO CHICKEN P\u0027ZOLO</item>
+		<item>MEATY P\u0027ZONE PIZZA</item>
+		<item>PEPPERONI P\u0027ZONE PIZZA</item>
+		<item>SUPREMO P\u0027ZONE PIZZA</item>
+		<item>TUSCANI MEATY MARINARA</item>
+		<item>TUSCANI CREAMY CHICKEN ALFREDO</item>
+		
+		<item>@string/sides</item>
+		<item>BUFFALO BURNIN\u0027 HOT WINGS</item>
+		<item>BUFFALO MEDIUM WINGS</item>
+		<item>BUFFALO MILD WINGS</item>
+		<item>SPICY ASIAN WINGS</item>
+		<item>SPICY BBQ WINGS</item>
+		<item>HONEY BBQ WINGS</item>
+		<item>LEMON PEPPER WINGS</item>
+		<item>GARLIC PARMESAN WINGS</item>
+		<item>NAKED WINGS</item>
+		<item>BREADSTICKS</item>
+		<item>CHEESE STICKS</item>
+		<item>STUFFED PIZZA ROLLERS</item>
+		<item>GARLIC BREAD PIZZA</item>
+		
+		<item>@string/desserts</item>
+		<item>HERSHEY\u0027S CHOCOLATE DUNKERS</item>
+		<item>CINNAMON STICKS</item>
+		
+		<item>@string/beverages</item>
+		<item>PEPSI</item>
+		<item>DIET PEPSI</item>
+		<item>MOUNTAIN DEW</item>
+		<item>SIERRA MIST</item>
+    </string-array>
+    
+</resources>

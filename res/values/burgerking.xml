@@ -1,0 +1,89 @@
+<resources>
+    <string-array name="burgerking_menu">
+        <item>@string/entrees</item>
+		<item>WHOPPER</item>
+		<item>WHOPPER w\u002f Cheese</item>
+		<item>DOUBLE WHOPPER</item>
+		<item>DOUBLE WHOPPER w\u002f Cheese</item>
+		<item>TRIPLE WHOPPER</item>
+		<item>TRIPLE WHOPPER w\u002f Cheese</item>
+		<item>Texas DOUBLE WHOPPER</item>
+		<item>WHOPPER JR.</item>
+		<item>WHOPPER JR. w\u002f Cheese</item>
+		<item>Hamburger</item>
+		<item>Cheeseburge</item>
+		<item>Double Hamburger</item>
+		<item>Double Cheeseburger</item>
+		<item>BK Bacon Burger</item>
+		<item>Bacon Cheeseburger</item>
+		<item>Double Bacon Cheeseburger</item>
+		<item>BK Single Stacker</item>
+		<item>BK Double Stacker</item>
+		<item>BK Triple Stacker</item>
+		<item>BK Quad Stacker</item>
+		<item>TENDERGRILL Chicken Sandwich</item>
+		<item>TENDERCRISP Chicken Sandwich</item>
+		<item>Original Chicken Sandwich</item>
+		<item>Italian Original Chicken Sandwich</item>
+		<item>Club Original Chicken Sandwich</item>
+		<item>CHICK\u0027N CRISP - Classic</item>
+		<item>CHICK\u0027N CRISP - Spicy</item>
+		<item>Chicken Strips (2pc)</item>
+		<item>Chicken Strips (3pc)</item>
+		<item>Chicken Strips (5pc)</item>
+		<item>Chicken Nuggets (4pc)</item>
+		<item>Chicken Nuggets (6pc)</item>
+		<item>Chicken Nuggets (10pc)</item>
+		<item>Chicken Nuggets (20pc)</item>
+		<item>Country Pork Sandwich</item>
+		<item>Premium Alaskan Fish Sandwich</item>
+		<item>Veggie Burger</item>
+		
+		<item>@string/sides</item>
+		<item>Fries</item>
+		<item>Onion Rings</item>
+		<item>Mozzarella Sticks (4pc)</item>
+		<item>BK Fresh Apple Slices</item>
+		<item>Chicken Caesar salad w\u002f TENDERGRILL</item>
+		<item>Chicken Caesar saladw\u002f TENDERCRISP</item>
+		<item>Side Caesar Salad</item>
+		<item>Chicken BLT salad w\u002f TENDERGRILL</item>
+		<item>Chicken BLT salad w\u002f TENDERCRISP</item>
+		<item>Chicken Apple \u0026 Cranberry salad w\u002f TENDERGRILL</item>
+		<item>Chicken Apple \u0026 Cranberry salad w\u002f TENDERCRISP</item>
+		<item>Side Salad \u0026 Ranch Dressing</item>
+		<item>Ranch Crispy Chicken Wrap</item>
+		<item>Ranch Grilled Chicken Wrap</item>
+		<item>Honey Mustard Crispy Chicken Wrap</item>
+		<item>Honey Mustard Grilled Chicken Wrap</item>
+		
+		<item>@string/desserts</item>
+		<item>Dutch Apple Pie</item>
+		<item>HERSHEY\u0027S Sundae Pie</item>
+		<item>Soft Serve Cone</item>
+		<item>Soft Serve Cup</item>
+		<item>Caramel Sundae</item>
+		<item>Chocolate Fudge Sundae</item>
+		<item>Strawberry Sundae</item>
+		<item>OREO Sundae</item>
+		<item>Mini M \u0026 M\u0027s Sundae</item>
+		<item>Warm Oreo Brownie Sundae</item>
+		<item>Chocolate Chip Cookies (2)</item>
+		<item>White Chocolate Macadamia Nut Cookies (2)</item>
+		<item>Oatmeal Raisin Cookies (2)</item>
+		<item>Strawberry Banana Smoothie</item>
+		<item>Tropical Mango Smoothie</item>
+		<item>Vanilla Milk Shake</item>
+		<item>Chocolate Milk Shake</item>
+		<item>Strawberry Milk Shake</item>
+		
+		<item>@string/beverages</item>
+		<item>Pepsi</item>
+		<item>Diet Pepsi</item>
+		<item>Mountain Dew</item>
+		<item>Sierra Mist</item>
+		<item>Fat FREE Milk</item>
+		<item>1\u0025 Low Fat Chocolate Milk</item>
+
+	</string-array>
+</resources>

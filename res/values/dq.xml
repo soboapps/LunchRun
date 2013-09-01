@@ -1,0 +1,156 @@
+<resources>
+    
+    <string-array name="dq_menu">
+        <item>@string/entrees</item>
+		<item>1\u002f4 lb. Bacon Cheese GrillBurger</item>
+		<item>1\u002f2 lb. FlameThrower GrillBurger</item>
+		<item>1\u002f4 lb. Mushroom Swiss GrillBurger</item>
+		<item>1\u002f2 lb. GrillBurger w\u002f Cheese</item>
+		<item>1\u002f4 lb. GrillBurger w\u002f Cheese</item>
+		<item>Original Cheeseburger</item>
+		<item>Original Double Cheeseburger</item>
+		<item>Deluxe Cheeseburger</item>
+		<item>Deluxe Double Cheeseburger</item>
+		<item>Deluxe Double Hamburger</item>
+		<item>Deluxe Hamburger</item>
+		<item>DQ Ultimate Burger</item>
+		<item>Crispy Fish Sandwich</item>
+		<item>Cheeseburger Kids</item>
+		<item>Chicken Strip Kids</item>
+		<item>Grilled Cheese Kids</item>
+		<item>Chick. Strip Basket - 4pc w\u002f Country Gravy</item>
+		<item>Chick. Strip Basket - 6pc w\u002f Country Gravy</item>
+		<item>Chicken Quesadilla Basket</item>
+		<item>Veggie Quesadilla Basket</item>
+		<item>Popcorn Shrimp Basket</item>
+		<item>Iron Grilled Turkey Sandwich</item>
+		<item>Iron Grilled Classic Club Sandwich</item>
+		<item>Iron Grilled Supreme BLT Sandwich</item>
+		<item>Iron Grilled Cheese Sandwich</item>
+		<item>Crispy Chicken Sandwich</item>
+		<item>Grilled Chicken Sandwich</item>
+		<item>Crispy FlameThrower Chicken Sandwich</item>
+		<item>Crispy Chicken Salad</item>
+		<item>Grilled Chicken Salad</item>
+		<item>Side Salad</item>
+		<item>Crispy Chicken Wrap</item>
+		<item>Grilled Chicken Wrap</item>
+		<item>Crispy FlameThrower Chicken Wrap</item>
+		<item>Chili Cheese Dog</item>
+		<item>Chili Dog</item>
+		<item>Foot-Long Chili Cheese Dog</item>
+		<item>Foot-Long Hot Dog</item>
+		<item>Hot Dog</item>
+		<item>Hot Dog Kids</item>
+		<item>Corn Dog</item>
+		<item>Barbecue Beef Sandwich</item>
+		<item>Barbecue Pork Sandwich</item>
+		
+		<item>@string/sides</item>
+		<item>French Fries</item>
+		<item>Onion Rings</item>
+		<item>Chili Cheese Fries</item>
+		<item>Breaded Mushrooms</item>
+		<item>Chili - Bowl</item>
+		<item>Chili - Cup</item>
+		<item>Cheese Curds</item>
+		
+		<item>@string/desserts</item>
+		<item>Vanilla Cone</item>
+		<item>Chocolate Cone</item>
+		<item>Dipped Cone, Chocolate</item>
+		<item>Sundae, Banana</item>
+		<item>Sundae, Caramel</item>
+		<item>Sundae, Cherry</item>
+		<item>Sundae, Chocolate</item>
+		<item>Sundae, Hot Fudge</item>
+		<item>Sundae, Marshmallow</item>
+		<item>Sundae, Peanut Butter</item>
+		<item>Sundae, Pineapple</item>
+		<item>Sundae, Strawberry</item>
+		<item>Turtle Waffle Bowl Sundae</item>
+		<item>Choc. Cov. Strawberry Waffle Bowl Sundae</item>
+		<item>Fudge Brownie Temptation Waffle Bowl Sundae</item>
+		<item>Chocolate Coated Waffle Cone w\u002f Soft Serve</item>
+		<item>Plain Waffle Cone w\u002f Soft Serve</item>
+		<item>Peanut Buster Parfait</item>
+		<item>Banana Split</item>
+		<item>Oreo Brownie EarthQuake Treat</item>
+		<item>Peanut Butter Bash</item>
+		<item>Pecan Mudslide Treat</item>
+		<item>Strawberry Shortcake</item>
+		<item>Chocolate Dilly Bar</item>
+		<item>No Sugar Added Dilly Bar</item>
+		<item>Chocolate Mint Dilly Bar</item>
+		<item>Butterscotch Dilly Bar</item>
+		<item>Cherry Dilly Bar</item>
+		<item>Heath Dilly Bar</item>
+		<item>Buster Bar Treat</item>
+		<item>DQ Sandwich</item>
+		<item>Cherry StarKiss Bar</item>
+		<item>Stars \u0026 Stripes StarKiss Bar</item>
+		<item>Fudge Bar</item>
+		<item>Vanilla Orange Bar</item>
+		<item>Banana Cream Pie Blizzard</item>
+		<item>Banana Split Blizzard</item>
+		<item>Butterfinger Blizzard</item>
+		<item>Choco Cherry Love Blizzard</item>
+		<item>Chocolate Xtreme Blizzard</item>
+		<item>Cookie Dough Blizzard</item>
+		<item>Double Fudge Cookie Dough Blizzard</item>
+		<item>French Silk Pie Blizzard</item>
+		<item>Georgia Mud Fudge  Blizzard</item>
+		<item>Hawaiian Blizzard</item>
+		<item>Heath Blizzard</item>
+		<item>M\u0026M\u0027s Chocolate Candy Blizzard</item>
+		<item>Midnight Truffle Blizzard</item>
+		<item>Mint Oreo Blizzard</item>
+		<item>Oreo Cookies Blizzard</item>
+		<item>Oreo CheeseQuake Blizzard</item>
+		<item>Reese\u0027s Peanut Butter Cups Blizzard</item>
+		<item>Snickers Blizzard - Mini</item>
+		<item>Strawberry CheeseQuake Blizzard</item>
+		<item>Turtle Pecan Cluster Blizzard</item>
+		<item>Arctic Rush</item>
+		<item>Arctic Rush Freeze</item>
+		<item>Arctic Rush Float</item>
+		<item>Shake, Banana</item>
+		<item>Shake, Caramel</item>
+		<item>Shake, Cherry</item>
+		<item>Shake, Chocolate</item>
+		<item>Shake, Hot Fudge</item>
+		<item>Shake, Peanut Butter</item>
+		<item>Shake, Strawberry</item>
+		<item>Shake, Vanilla</item>
+		<item>Malt, Banana</item>
+		<item>Malt, Caramel</item>
+		<item>Malt, Cherry</item>
+		<item>Malt, Chocolate</item>
+		<item>Malt, Hot Fudge</item>
+		<item>Malt, Peanut Butter</item>
+		<item>Malt, Strawberry</item>
+		<item>Malt, Vanilla</item>
+				
+		<item>@string/beverages</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coca-Cola</item>
+		<item>Sprite</item>
+		<item>Barq\u0027s Root Beer</item>
+		<item>Pepsi</item>
+		<item>Diet Pepsi</item>
+		<item>Sierra Mist</item>
+		<item>Mountain Dew</item>
+		<item>Mug Root Beer</item>
+		<item>Dr Pepper</item>
+		<item>Bottled Water</item>
+		<item>Coffee</item>
+		<item>2\u0025 Milk</item>
+		<item>Cappuccino MooLatté</item>
+		<item>Caramel MooLatté</item>
+		<item>French Vanilla MooLatté</item>
+		<item>Mocha MooLatté</item>
+		<item>Lemonade Chiller</item>
+		<item>Lemonade Strawberry Chiller</item>
+	</string-array>
+
+</resources>

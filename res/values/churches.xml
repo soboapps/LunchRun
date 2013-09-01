@@ -1,0 +1,57 @@
+<resources>
+    
+    <string-array name="churches_menu">
+        <item>@string/entrees</item>
+		<item>Original Chicken</item>
+		<item>Spicier Spicy Chicken</item>
+		<item>Tender Chicken Strips</item>
+		<item>Spicy Chicken Tender Strips</item>
+		<item>Chicken Wings</item>
+		<item>Boneless Chicken Wings</item>
+		<item>Original Chicken Sandwich</item>
+		<item>Spicy Chicken Sandwich</item>
+		<item>Chicken Sandwich with Cheese</item>
+		<item>Double Chicken N Cheese Sandwich</item>
+		<item>Southern Style Chicken Sandwich</item>
+		<item>Spicy Southern Style Chicken Sandwich</item>
+		<item>Nuggets (5)</item>
+		<item>Shrimp (8)</item>
+		<item>Chicken Fried Steak</item>
+		<item>Fish Fillet</item>
+		
+		<item>@string/sides</item>
+		<item>French Fries</item>
+		<item>Livers (6)</item>
+		<item>Honey-Butter Biscuit</item>
+		<item>Mashed Potatoes \u0026 Gravy</item>
+		<item>Corn</item>
+		<item>Jalapeño Pepper</item>
+		<item>Cole Slaw</item>
+		<item>Okra</item>
+		<item>Collard Greens</item>
+		<item>Green Beans</item>
+		<item>Sweet Corn Nuggets (8)</item>
+		<item>Jalapeño Cheese Bombers (4)</item>
+		<item>Cajun Rice</item>
+		<item>Macaroni \u0026 Cheese</item>
+		<item>Red Beans \u0026 Rice</item>
+		
+		<item>@string/desserts</item>
+		<item>Apple Pie</item>
+		<item>Strawberry Shortcake</item>
+		
+		<item>@string/beverages</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coke</item>
+		<item>Dr Pepper</item>
+		<item>Diet Dr Pepper</item>
+		<item>Sprite</item>
+		<item>Hi-C Pink Lemonade</item>
+		<item>Fanta Apple Drink</item>
+		<item>Fanta Strawberry Drink</item>
+		<item>Minute Maid Lemonade</item>
+		<item>Sweet Tea</item>
+		<item>Unsweet Tea</item>
+    </string-array>
+    
+</resources>

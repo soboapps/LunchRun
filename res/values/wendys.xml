@@ -1,0 +1,79 @@
+<resources>
+    
+    <string-array name="wendys_menu">
+        <item>@string/entrees</item>
+		<item>1\u002f4lb Single</item>
+		<item>1\u002f2lb Double</item>
+		<item>1\u002f4lb Single w\u002f cheese</item>
+		<item>1\u002f2 Double w\u002f cheese</item>
+		<item>3\u002f4lb Triple w\u002f cheese</item>
+		<item>1\u002f4lb Baconator Single</item>
+		<item>1\u002f2lb Baconator Double</item>
+		<item>Spicy Chicken Fillet</item>
+		<item>Homestyle Chicken Fillet</item>
+		<item>Asiago Ranch Chicken Club</item>
+		<item>Ultimate Chicken Grill</item>
+		<item>5pc Chicken Nuggets</item>
+		<item>5pc Spicy Chicken Nuggets</item>
+		<item>10pc Chicken Nuggets</item>
+		<item>Monterey Ranch Crispy Chicken Sandwich</item>
+		<item>Jr. Cheeseburger Deluxe</item>
+		<item>Crispy Chicken Caesar Wrap</item>
+		<item>Crispy Chicken Sandwich</item>
+		<item>Jr. Bacon Cheeseburger</item>
+		<item>Double Stack</item>
+		<item>Double Jr. Bacon Cheeseburger</item>
+		<item>Spicy Chicken Go Wrap</item>
+		<item>Homestyle Chicken Go Wrap</item>
+		<item>Grilled Chicken Go Wrap</item>
+		
+		<item>@string/sides</item>
+		<item>Fries</item>
+		<item>Chili</item>
+		<item>Sour Cream \u0026 Chive Baked Potato</item>
+		<item>Apple Pecan Chicken Salad</item>
+		<item>BLT Cobb Salad</item>
+		<item>Spicy Chicken Caesar Salad</item>
+		<item>Baja Salad</item>
+		<item>Garden Side Salad</item>
+		<item>Caesar Side Salad</item>
+		<item>Bacon \u0026 Cheese Potato</item>
+		<item>Sour Cream \u0026 Chive Baked Potato</item>
+		
+		<item>@string/desserts</item>
+		<item>Chocolate Frosty</item>
+		<item>Vanilla Frosty</item>
+		<item>Vanilla Frosty Float w\u002f Coca-Cola</item>
+		<item>Chocolate Frosty Shake</item>
+		<item>Strawberry Frosty Shake</item>
+		<item>Vanilla Bean Frosty Shake</item>
+		<item>Caramel Frosty Shake</item>
+		<item>Wild Berry Frosty Shake</item>
+		<item>Oreo Frosty Parfait</item>
+		<item>Caramel Apple Parfait</item>
+
+		<item>@string/beverages</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coke</item>
+		<item>Coke Zero</item>
+		<item>Pibb Xtra</item>
+		<item>Dr Pepper</item>
+		<item>Sprite</item>
+		<item>Barq\u0027s Root Beer</item>
+		<item>Fanta Orange</item>
+		<item>Juicy Juice</item>
+		<item>Minute Maid Light Lemonade</item>
+		<item>Hi-C Flashin\u0027 Fruit Punch</item>
+		<item>Sweet Tea</item>
+		<item>Unsweet Tea</item>
+		<item>Wild Berry Tea</item>
+		<item>All Natural Lemonade</item>
+		<item>Wild Berry Lemonade</item>
+		<item>Coffee</item>
+		<item>Hot Tea</item>
+		<item>1\u0025 Milk</item>
+		<item>Chocolate Milk</item>
+		<item>Bottled Water</item>
+    </string-array>
+    
+</resources>

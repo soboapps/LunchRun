@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Lunch Run</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Lunch Run</string>
+    <string name="LunchRunTitle">Lunch Run</string>
+    <string name="stDonate">Donate</string>
+    <string name="donate1">Donate $1</string>
+    <string name="arbysTitle">Arby\u0027s</string>
+    <string name="awTitle">A\u0026W Restaurant</string>
+    <string name="burgerkingTitle">Burger King</string>
+    <string name="carlsjrTitle">Carl\u0027s Jr</string>
+    <string name="chickfilaTitle">Chick-fil-a</string>
+    <string name="churchesTitle">Church\u0027s Chicken</string>
+    <string name="dqTitle">Dairy Queen</string>
+    <string name="hardeesTitle">Hardee\u0027s</string>
+    <string name="kfcTitle">Kentucky Fried Chicken</string>
+    <string name="mcdonaldsTitle">McDonald\u0027s</string>
+    <string name="paneraTitle">Panera Bread</string>
+    <string name="pizzahutTitle">Pizza Hut</string>
+    <string name="popeyesTitle">Popeyes</string>
+    <string name="subwayTitle">Subway</string>
+    <string name="tacobellTitle">Taco Bell</string>
+    <string name="wendysTitle">Wendy\u0027s</string>
+    <string name="MY_AD_UNIT_ID">a14f4924b2df6ab</string>
+    <string name="stAbout">About</string>
+    <string name="stExit">Exit</string>
+    <string name="disclaimer">All other logos and trademarks are the property of the respective trademark owners. \u00ae and \u2122 denote registered trademarks in the United States and other countries</string>
+    <string name="stCompany">South Bound Apps</string>
+    <string name="stWWW">http://www.soboapps.com</string>
+    <string name="stAbout_lr">Lunch Run 1.9 \u00A9 2012</string>
+    <string name="stSlogan">Lunch Run is your Fastest Way to Fast Food!</string>
+    <string name="stLunch">Lunch</string>
+    <string name="stRun">Run</string>
+    <string name="stAdded"> added to list</string>
+    <string name="stPickup">Please pick me up a</string>
+    <string name="stFrom">from</string>
+    <string name="stThanks">Thanks!</string>
+    <string name="stSig">Sent from Lunch Run by Sobo Apps</string>
+    <string name="entrees"><b><u>\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e ENTREES \u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c</u></b></string>
+    <string name="sides"><b><u>\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e SIDES \u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c</u></b></string>
+    <string name="desserts"><b><u>\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e DESSERTS \u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c</u></b></string>
+    <string name="beverages"><b><u>\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e BEVERAGES \u003c\u003c\u003c\u003c\u003c\u003c\u003c\u003c</u></b></string>
+
+</resources>

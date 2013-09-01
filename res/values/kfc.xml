@@ -1,0 +1,91 @@
+<resources>
+    
+    <string-array name="kfc_menu">
+        <item>@string/entrees</item>
+		<item>6pc Chicken, 1 lg side, 3 biscuits</item>
+		<item>8pc Chicken, 2 lg sides, 4 biscuits</item>
+		<item>12pc Chicken, 3 lg sides, 6 biscuits</item>
+		<item>16pc Chicken, 4 lg sides, 8 biscuits</item>
+		<item>Variety Bucket, 2 lg sides, 4 biscuits</item>
+		<item>6pc Chicken only</item>
+		<item>8pc Chicken only</item>
+		<item>12pc chicken only</item>
+		<item>16pc chicken only</item>
+		<item>Variety Bucket chicken only</item>
+		<item>1pc Chicken, breast meal</item>
+		<item>2pc Chicken, leg \u0026 thigh meal</item>
+		<item>2pc Chicken, breast \u0026 wing meal</item>
+		<item>3pc Chicken, legs \u0026 thigh meal</item>
+		<item>3pc Chicken, breasts \u0026 wing meal</item>
+		<item>Doublicious Sandwich</item>
+		<item>Honey BBQ Sandwich</item>
+		<item>2 KFC Snackers</item>
+		<item>2pc Chicken</item>
+		<item>3 Extra Crispy Strips</item>
+		<item>5 Hot Wings</item>
+		<item>Boneless Filet</item>
+		<item>Large Popcorn Chicken</item>
+		<item>KFC Famous Bowls</item>
+		<item>Chunky Chicken Pot Pie</item>
+		<item>5pc Chicken Wings</item>
+		<item>10pc Chicken Wings</item>
+		<item>20pc Chicken Wings</item>
+		<item>3pc Chicken Strips</item>
+		<item>6pc Chicken Strips</item>
+		<item>12pc Chicken Strips</item>
+		<item>KFC Snacker</item>
+		<item>Honey BBQ Snacker</item>
+		<item>Honey BBQ Sandwich</item>
+		<item>Boneless Filet</item>
+		
+		<item>@string/sides</item>
+		<item>Mashed Potatoes w\u002f gravy</item>
+		<item>Cole Slaw</item>
+		<item>Wedges</item>
+		<item>Baked Beans</item>
+		<item>Macaroni \u0026 Cheese</item>
+		<item>Green Beans</item>
+		
+		<item>@string/desserts</item>
+		<item>Apple Turnover</item>
+		<item>Café Valley Bakery Chocolate Chip Cake</item>
+		<item>Café Valley Bakery Lemon Cake</item>
+		<item>Lil\u0027 Bucket Lemon Crème Parfait Cup</item>
+		<item>Lil\u0027 Bucket Chocolate Crème Parfait Cup</item>
+		<item>Lil\u0027 Bucket Strawberry Shortcake Parfait Cup</item>
+		<item>Reese\u0027s Peanut Butter Pie</item>
+		<item>Oreo Cookies \u0026 Crème Pie</item>
+		<item>Sweet Life Oatmeal Raisin Cookie</item>
+		<item>Sweet Life Chocolate Chip Cookie</item>
+		<item>Capri Sun Roarin\u0027 Waters Tropical Fruit</item>
+		
+		<item>@string/beverages</item>
+		<item>Pepsi</item>
+		<item>Diet Pepsi</item>
+		<item>Pepsi MAX</item>
+		<item>Mountain Dew</item>
+		<item>Diet Mountain Dew</item>
+		<item>Code Red Mountain Dew</item>
+		<item>Mug Root Beer</item>
+		<item>Dr Pepper</item>
+		<item>Diet Dr Pepper</item>
+		<item>7UP</item>
+		<item>Wild Cherry Pepsi</item>
+		<item>Sierra Mist</item>
+		<item>Diet Sierra Mist</item>
+		<item>Miranda Strawberry</item>
+		<item>Manzanita Sol</item>
+		<item>Lipton Brisk Tea</item>
+		<item>Lipton Brisk Lemon Tea</item>
+		<item>Lipton Brisk Green \u002f Peach Tea</item>
+		<item>Lipton Brisk Peach Tea</item>
+		<item>Lipton Brisk Raspberry Tea</item>
+		<item>Tropicana Lemonade</item>
+		<item>Tropicana Sugar Free Lemonade</item>
+		<item>Tropicana Pink Lemonade</item>
+		<item>Tropicana Fruit Punch</item>
+		<item>Tropicana Twister Orange</item>
+		<item>2\u0025 Milk</item>
+    </string-array>
+    
+</resources>

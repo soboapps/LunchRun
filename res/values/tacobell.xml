@@ -1,0 +1,108 @@
+<resources>
+    
+    <string-array name="tacobell_menu">
+        <item>@string/entrees</item>
+		<item>1\u002f2 lb. Cheesy Potato Burrito</item>
+		<item>1\u002f2 lb. Combo Burrito</item>
+		<item>7-Layer Burrito</item>
+		<item>Bean Burrito</item>
+		<item>Beefy 5-Layer Burrito</item>
+		<item>Black Bean Burrito</item>
+		<item>Chicken Burrito Supreme</item>
+		<item>Steak Burrito Supreme</item>
+		<item>Beef Burrito Supreme</item>
+		<item>Cantina Burrito</item>
+		<item>Chicken Burrito</item>
+		<item>Chili Cheese Burrito</item>
+		<item>XXL Grilled Beef Stuft Burrito</item>
+		<item>XXL Grilled Chicken Stuft Burrito</item>
+		<item>XXL Grilled Steak Stuft Burrito</item>
+		<item>Chalupa Chicken Supreme</item>
+		<item>Chalupa Steak Supreme</item>
+		<item>Chalupa Supreme–Beef</item>
+		<item>Fresco Bean Burrito</item>
+		<item>Fresco Chicken Burrito Supreme</item>
+		<item>Fresco Steak Burrito Supreme</item>
+		<item>Fresco Chicken Soft Taco</item>
+		<item>Fresco Crunchy Taco</item>
+		<item>Fresco Grilled Steak Soft Taco</item>
+		<item>Fresco Soft Taco</item>
+		<item>Cheesy Gordita Crunch</item>
+		<item>Gordita Chicken Supreme</item>
+		<item>Gordita Steak Supreme</item>
+		<item>Gordita Beef Supreme</item>
+		<item>Chicken Quesadilla</item>
+		<item>Steak Quesadilla</item>
+		<item>Chili Cheese Burrito</item>
+		<item>Crunchwrap Supreme</item>
+		<item>Chicken Enchirito</item>
+		<item>Steak Enchirito</item>
+		<item>Beef Enchirito</item>
+		<item>Chicken Soft Taco</item>
+		<item>Crispy Potato Soft Taco</item>
+		<item>Crunchy Taco</item>
+		<item>Crunchy Taco Supreme</item>
+		<item>DOUBLE DECKER Taco Supreme</item>
+		<item>Doritos Locos Tacos</item>
+		<item>Doritos Locos Tacos Supreme</item>
+		<item>Double Decker Taco</item>
+		<item>Fresco Chicken Soft Taco</item>
+		<item>Fresco Crunchy Taco</item>
+		<item>Grilled Steak Soft Taco</item>
+		<item>Soft Taco Beef Supreme</item>
+		<item>Soft Beef Taco</item>
+		<item>Volcano Burrito</item>
+		<item>Volcano Nachos</item>
+		<item>Volcano Taco</item>
+		<item>Cheesy Nachos</item>
+		<item>Nachos</item>
+		<item>Nachos BellGrande</item>
+		<item>Nachos Supreme</item>
+		<item>Volcano Nachos</item>
+		<item>MexiMelt</item>
+		<item>Mexican Pizza</item>
+		<item>Tostada</item>
+		
+		<item>@string/sides</item>
+		<item>Cheese Roll-Up</item>
+		<item>Black Beans</item>
+		<item>Black Beans \u0026 Rice</item>
+		<item>Caramel Apple Empanada</item>
+		<item>Cheesy Fiesta Potatoes</item>
+		<item>Chips \u0026 Pico De Gallo</item>
+		<item>Chips \u0026 Corn Salsa</item>
+		<item>Chips \u0026 Guacamole</item>
+		<item>Cilantro Rice</item>
+		<item>Mexican Rice</item>
+		<item>Pintos n Cheese</item>
+		<item>Cantina Bowl</item>
+		<item>Cheese Quesadilla</item>
+		<item>Express Taco Salad w/ Chips</item>
+		<item>Express Taco Salad w/ Chips</item>
+		<item>Fiesta Beef Taco Salad</item>
+		<item>Fiesta Chicken Taco Salad</item>
+		<item>Fiesta Steak Taco Salad</item>
+
+		<item>@string/desserts</item>
+		<item>Cinnamon Twists</item>
+		<item>Caramel Apple Empanada</item>
+		
+		<item>@string/beverages</item>
+		<item>Pepsi</item>
+		<item>Diet Pepsi</item>
+		<item>Dr Pepper</item>
+		<item>Mountain Dew</item>
+		<item>MUG Root Beer</item>
+		<item>Sierra Mist</item>
+		<item>Cherry Limeade Sparkler</item>
+		<item>Classic Limeade Sparkler</item>
+		<item>Frozen Strawberry Lemonade</item>
+		<item>Mango Strawberry Frutista Freeze</item>
+		<item>Strawberry Frutista Freeze</item>
+		<item>Lipton Raspberry Iced Tea</item>
+		<item>Mountain Dew Baja Blast</item>
+		<item>Tropicana Fruit Punch</item>
+		<item>Tropicana Pink Lemonade</item>
+    </string-array>
+    
+</resources>

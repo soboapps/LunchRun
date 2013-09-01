@@ -1,0 +1,75 @@
+<resources>
+    
+    <string-array name="aw_menu">
+        <item>@string/entrees</item>
+		<item>Papa Burger</item>
+		<item>Papa Single Burger</item>
+		<item>Original Bacon Double Cheeseburger</item>
+		<item>Original Double Cheeseburger</item>
+		<item>Original Bacon Cheeseburger</item>
+		<item>Hamburger</item>
+		<item>Cheeseburger</item>
+		<item>Grilled Chicken Sandwich</item>
+		<item>Crispy Chicken Sandwich</item>
+		<item>Chicken Strips- 3 pieces</item>
+		<item>Crunchy Shrimp 21 pieces</item>
+		<item>Hot Dog</item>
+		<item>Coney Chili Dog</item>
+		<item>Coney Chili Cheese Dog</item>
+		<item>Cheese Dog</item>
+    	
+    	<item>@string/sides</item>
+		<item>French Fries</item>
+		<item>Corn Dog Nuggets</item>
+		<item>Chili Cheese Fries</item>
+		<item>Cheese Fries</item>
+		<item>Chili Fries</item>
+		<item>Breaded Onion Rings</item>
+		<item>Cheese Curds</item>
+		<item>Chili bowl</item>
+    	
+    	<item>@string/desserts</item>
+		<item>Polar Swirl</item>
+		<item>M\u0026M\u0027s Polar Swirl</item>
+		<item>Oreo Polar Swirl</item>
+		<item>Reese\u0027s Polar Swirl</item>
+		<item>Strawberry Milkshake</item>
+		<item>Vanilla Milkshake</item>
+		<item>Chocolate Milkshake</item>
+		<item>Vanilla Cone</item>
+		<item>A\u0026W Root Beer Freeze</item>
+		<item>A\u0026W Diet Root Beer Freeze</item>
+		<item>Orange Freeze</item>
+		<item>Strawberry Sundae</item>
+		<item>Chocolate Sundae</item>
+		<item>Hot Fudge Sundae</item>
+		<item>Caramel Sundae</item>
+		<item>A\u0026W Root Beer Float</item>
+		<item>A\u0026W Diet Root Beer Float</item>
+		<item>Orange Float</item>
+		<item>Pineapple Banana Smoothee</item>
+		<item>Strawberry Banana Smoothee</item>
+		<item>Strawberry Smoothee</item>
+		<item>Reese\u0027s Peanut Butter Fudge Blendrrr</item>
+		<item>Chocolate Fudge Blendrrr</item>
+		<item>Oreo Cookies \u0026 Cream Blendrrr</item>
+    	
+    	<item>@string/beverages</item>
+		<item>Limeade</item>
+		<item>Strawberry Limeade</item>
+		<item>Cherry Limeade</item>
+		<item>Cherry Slushee</item>
+		<item>Watermelon Slushee</item>
+		<item>Lemon Slushee</item>
+		<item>Lime Slushee</item>
+		<item>Blue Raspberry Slushee</item>
+		<item>A\u0026W Root Beer</item>
+		<item>A\u0026W Diet Root Beer</item>
+		<item>Pepsi</item>
+		<item>Mountain Dew</item>
+		<item>Sierra Mist</item>
+		<item>Dr. Pepper</item>
+    	
+    </string-array>
+    
+</resources>

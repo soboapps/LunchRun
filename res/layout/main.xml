@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:background="@drawable/main_background" 
+    android:paddingLeft="10.0dip" 
+    android:paddingTop="0.0dip" 
+    android:paddingRight="10.0dip" 
+    android:paddingBottom="10.0dip" 
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent">
+	
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="100.0dip"
+                android:background="@drawable/title" />
+            
+            <LinearLayout 
+                android:orientation="horizontal" 
+                android:background="@drawable/head" 
+                android:layout_width="fill_parent" 
+                android:layout_height="10.0dip" />
+             
+            <ScrollView 
+                android:id="@+id/sv01" 
+                android:layout_width="fill_parent" 
+                android:layout_height="fill_parent">
+                
+                <LinearLayout 
+                    android:orientation="vertical" 
+                    android:layout_width="fill_parent" 
+                    android:layout_height="wrap_content">
+                    
+                                           
+                        <Button
+                            android:id="@+id/bArbys"
+                            android:layout_width="fill_parent"
+                            android:layout_height="75.0dip"
+                            android:background="@drawable/arbys_btn" />
+                        
+                                     
+                        <Button 
+                            android:id="@+id/bAW" 
+                            android:background="@drawable/aw_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                        
+                                            
+                        <Button 
+                            android:id="@+id/bBurgerking" 
+                            android:background="@drawable/burgerking_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                        
+                                           
+                        <Button 
+                            android:id="@+id/bCarlsjr" 
+                            android:background="@drawable/carlsjr_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                        
+                        <Button 
+                            android:id="@+id/bChickfila" 
+                            android:background="@drawable/chickfila_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />                    
+                                            
+                        <Button 
+                            android:id="@+id/bChurches" 
+                            android:background="@drawable/churches_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                                            
+                        <Button 
+                            android:id="@+id/bDQ" 
+                            android:background="@drawable/dq_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                                            
+                        <Button 
+                            android:id="@+id/bHardees" 
+                            android:background="@drawable/hardees_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                                            
+                        <Button 
+                            android:id="@+id/bKFC" 
+                            android:background="@drawable/kfc_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                                            
+                        <Button 
+                            android:id="@+id/bMcdonalds" 
+                            android:background="@drawable/mcdonalds_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                                            
+                                            
+                        <Button 
+                            android:id="@+id/bPanera" 
+                            android:background="@drawable/panera_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                                           
+                        <Button 
+                            android:id="@+id/bPizzahut" 
+                            android:background="@drawable/pizzahut_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                                            
+                        <Button 
+                            android:id="@+id/bPopeyes" 
+                            android:background="@drawable/popeyes_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                        
+                        <Button 
+                            android:id="@+id/bSubway" 
+                            android:background="@drawable/subway_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                        
+                                                              
+                        <Button 
+                            android:id="@+id/bTacobell" 
+                            android:background="@drawable/tacobell_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />
+                        
+                        <Button 
+                            android:id="@+id/bWendys" 
+                            android:background="@drawable/wendys_btn" 
+                            android:layout_width="fill_parent" 
+                            android:layout_height="75.0dip" />                                            
+
+		            <LinearLayout 
+		                android:orientation="horizontal" 
+		                android:background="@drawable/head" 
+		                android:layout_width="fill_parent" 
+		                android:layout_height="10.0dip" />                                                                                                   
+		            </LinearLayout>
+                
+            </ScrollView>
+</LinearLayout>

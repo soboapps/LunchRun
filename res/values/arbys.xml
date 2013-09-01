@@ -1,0 +1,65 @@
+<resources>
+    
+    <string-array name="arbys_menu">
+        <item>@string/entrees</item>
+		<item>Roast Beef</item>
+		<item>Beef \u0027n Cheddar</item>
+		<item>Bacon Beef \u0027n Cheddar</item>
+		<item>French Dip \u0026 Swiss</item>
+		<item>Super Roast Beef Sandwich</item>
+		<item>Arby\u0027s Melt Sandwich</item>
+		<item>Deluxe Bacon Cheddar</item>
+		<item>\u0027shroom \u0026 Swiss</item>
+		<item>Arby-q</item>
+		<item>Jr Roast Beef Sandwich</item>
+		<item>Philly</item>
+		<item>Three Cheese \u0026 Bacon</item>
+		<item>French Dip \u0026 Swiss Sub</item>
+		<item>Reuben</item>
+		<item>Cravin\u0027 Chicken Sandwich</item>
+		<item>Chicken Bacon \u0026 Swiss Sandwich</item>
+		<item>Chicken Cordon Bleu Sandwich</item>
+		<item>Roast Chicken Club Sandwich</item>
+		<item>Jr Chicken Sandwich</item>
+		<item>Prime-cut Chicken Tenders</item>
+		<item>Turkey Bacon Club Sub</item>
+		<item>Roast Turkey Ranch \u0026 Bacon</item>
+		<item>Roast Turkey Ranch \u0026 Bacon Wrap</item>
+		<item>Roast Turkey \u0026 Swiss</item>
+		<item>Roast Turkey \u0026 Swiss Wrap</item>
+		<item>Jr Ham \u0026 Cheddar Sandwich</item>
+		<item>Classic Italian Sub</item>		
+		<item>Jr Pepper Jack</item>
+		<item>Jr Deluxe</item>
+		<item>Arby-q</item>
+		<item>Fish Sandwich</item>
+		<item>@string/sides</item>
+		<item>Curly Fries</item>
+		<item>Homestyle Fries</item>
+		<item>Steakhouse Onion Rings</item>
+		<item>Potato Cakes</item>
+		<item>Loaded Potato Bites</item>
+		<item>Mozzarella Sticks W\u002f Marinara Sauce</item>
+		<item>Jalapeno Bites W\u002f Bronco Berry Sauce</item>
+		<item>Chopped Side Salad</item>
+		<item>Roast Chopped Farmhouse Salad</item>
+		<item>Crispy Chopped Farmhouse Salad</item>
+		<item>Chopped Side Salad</item>		
+		<item>Apple Slices W\u002f Strawberry Yogurt Dip</item>
+		<item>Kraft Macaroni \u0026 Cheese</item>
+		
+		<item>@string/desserts</item>
+		<item>Jamocha Cream Pie</item>
+		<item>Cherry Turnover</item>
+		<item>Apple Turnover</item>
+		<item>Chocolate Turnover</item>
+		<item>Gourmet Chocolate Chunk Cookies</item>
+		
+		<item>@string/beverages</item>
+		<item>Pepsi</item>
+		<item>Diet Pepsi</item>
+		<item>Mountain Dew</item>
+		<item>Sierra Mist</item>
+    </string-array>
+    
+</resources>

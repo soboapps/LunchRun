@@ -1,0 +1,78 @@
+<resources>
+    
+    <string-array name="chickfila_menu">
+        <item>@string/entrees</item>
+		<item>Chick-fil-A Chicken Sandwich</item>
+		<item>Chick-fil-A Deluxe Chicken Sandwich</item>
+		<item>Chick-fil-A Spicy Chicken Sandwich</item>
+		<item>Spicy Chicken Sandwich Deluxe</item>
+		<item>Chargrilled Chicken Sandwich</item>
+		<item>Chargrilled Chicken Club Sandwich</item>
+		<item>Chick-fil-A Nuggets</item>
+		<item>Chick-fil-A Grilled Nuggets</item>
+		<item>Chick-fil-A Chick-n-Strips</item>
+		<item>Chick-fil-A Chicken Salad Sandwich</item>
+		<item>Chargrilled Chicken Cool Wrap</item>
+		<item>Chicken Caesar Cool Wrap</item>
+		<item>Spicy Chicken Cool Wrap</item>
+		<item>Chick-n-Strips Kid\u0027s Meal</item>
+		<item>Chick-fil-A Nuggets Kid\u0027s Meal</item>
+		<item>Chick-fil-A Nuggets Tray</item>
+		<item>Chick-fil-A Chick-n-Strips Tray</item>
+		<item>Chick-fil-A Cool Wrap Tray</item>
+		<item>Chick-fil-A Chick-n-Minis Tray</item>
+		<item>Cool Wrap \u0026 Chicken Salad Sandwich Tray</item>
+		<item>Chicken Salad Sandwich Tray</item>
+						
+		<item>@string/sides</item>
+		<item>Chick-fil-A Waffle Potato Fries</item>
+		<item>Cole Slaw</item>
+		<item>Fruit Cup</item>
+		<item>Hearty Breast of Chicken Soup</item>
+		<item>Chargrilled \u0026 Fruit Salad</item>
+		<item>Chargrilled Chicken Garden Salad</item>
+		<item>Chick-fil-A Chick-n-Strips Salad</item>
+		<item>Southwest Chargrilled Salad</item>
+		<item>Carrot \u0026 Raisin Salad</item>
+		<item>Chicken Salad Cup</item>
+		<item>Side Salad</item>
+		<item>Waffle Potato Fries Kid\u0027s Meal</item>
+		<item>Fruit Cup Kid\u0027s Meals</item>
+		<item>Cinnamon Apple Sauce</item>
+		
+		<item>@string/desserts</item>
+		<item>Peach Milkshake</item>
+		<item>Chocolate Milkshake</item>
+		<item>Cookies \u0026 Cream Milkshake</item>
+		<item>Strawberry Milkshake</item>
+		<item>Vanilla Milkshake</item>
+		<item>Mini Sundae</item>
+		<item>Fudge Brownie Sundae</item>
+		<item>Cookie Sundae</item>
+		<item>Chocolate Chunk Cookie</item>
+		<item>Fudge Brownie</item>
+		<item>Icedream</item>
+		<item>Chick-fil-A Cinnamon Clusters Tray</item>
+		<item>Chick-fil-A Fruit Tray</item>
+		<item>Chocolate Chunk Cookie Tray</item>
+		<item>Fudge Brownie Tray</item>
+		<item>Cookie \u0026 Brownie Tray</item>
+				
+		<item>@string/beverages</item>
+		<item>Coca-Cola</item>
+		<item>Diet Coke</item>
+		<item>Dr Pepper</item>
+		<item>DASANI Bottled Water</item>
+		<item>Sweet Iced Tea</item>
+		<item>Unsweet Iced Tea</item>
+		<item>Chick-fil-A Lemonade</item>
+		<item>Chick-fil-A Diet Lemonade</item>
+		<item>Milk</item>
+		<item>Chocolate Milk</item>
+		<item>Minute Maid Apple Juice</item>
+		<item>Simply Orange Juice</item>
+		<item>100% Colombian Coffee</item>
+
+    </string-array>
+    
+</resources>
